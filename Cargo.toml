@@ -1,8 +1,0 @@
-[package]
-name = "scrapy"
-version = "0.1.2"
-edition = "2024"
-
-[dependencies]
-bevy = "0.20.0"
-log = { version = "*", features = ["max_level_debug", "release_max_level_warn"] }

@@ -1,2 +1,2 @@
 # scrapy
-A tycoon simulator where u run a scrapyard with Bevy, Rust.
+A tycoon simulator where u run a scrapyard made with LÖVE, Lua.
